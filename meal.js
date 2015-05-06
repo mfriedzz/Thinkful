@@ -1,4 +1,5 @@
 // meal.js
+// Calculates tax, amount, tip
 function computeAmount(base, percentage) {
 	return base * percentage;
 }
